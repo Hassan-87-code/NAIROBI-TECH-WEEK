@@ -1,0 +1,3 @@
+# Nairobi Tech Week 2026 Nairobi Tech Week is a fictional technology event landing page created as a responsive web development project.
+ The website is designed using a mobile-first approach and demonstrates responsive layouts, fluid typography, responsive images, accessibility and Git workflow. 
+ ## Project Features - Responsive navigation - Hero section - Responsive hero image - Six speaker cards - Event schedule - Registration section - Footer - Mobile-first CSS - Fluid typography using `clamp()` - Responsive images using `srcset` and `sizes` - Reduced-motion accessibility support - Responsive layout from mobile to desktop
